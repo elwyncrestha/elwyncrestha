@@ -22,7 +22,7 @@
 
 ```
 
-- 🧠 I am currently specializing Angular and Java language.
+- 🧠 I am currently specializing Angular and Java language and frameworks.
 - 💡 I am open to collect and share knowledge and ideas.
 - 🌄 I like spending time alone sometime.
 - ⚡ I like to analyze everything.
