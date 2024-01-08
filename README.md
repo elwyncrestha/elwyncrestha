@@ -1,6 +1,4 @@
-### Hi there, I am [Elvin](https://elwyncrestha.github.io/) 👋
-
-## I am a developer 💻
+### Hi there, I am [Elvin](https://elwyncrestha.github.io/) 👋, a Developer 💻 crafting digital wonders!
 
 ```
 
@@ -22,10 +20,10 @@
 
 ```
 
-- 🧠 I am currently specializing Angular and Java language and frameworks.
-- 💡 I am open to collect and share knowledge and ideas.
-- 🌄 I like spending time alone sometime.
-- ⚡ I like to analyze everything.
+- 🧠 Specializing in cutting-edge frontend frameworks and robust backend technologies using Java (Spring), C# (.NET), and navigating the clouds with AWS and Azure.
+- 💡 Open to the free exchange of knowledge and ideas; let's build the future together!
+- 🌄 Finding solace in solitary coding sessions.
+- ⚡ Analyzing everything to uncover hidden patterns and optimize solutions.
 
 ---
 
@@ -34,3 +32,7 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elwyncrestha&layout=compact&hide_border=true)
+
+---
+
+🚀 Let's code the future together! 🚀
